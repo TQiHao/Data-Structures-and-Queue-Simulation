@@ -1,7 +1,4 @@
-# CSCI203 - Algorithms and Data Structures - Assignment 2
-
-## Assignment Details
-- **Course**: CSCI203 Algorithms and Data Structures  
+# Algorithms and Data Structures
 
 ## Contents
 ### Part A: Theory Questions (70 marks)
@@ -31,4 +28,4 @@ An email server simulator that processes messages using a custom queue implement
 - Random Number Simulation
 
 ## Author
-Toh Qi Hao - CSCI203 Assignment 2
+Toh Qi Hao
